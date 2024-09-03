@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nelima-python
 - 👀 I’m interested in writing HTML code 
 - 🌱 I’m currently learning coding at Partners for Girls Africa Foundation.
-- 💞️ I’m looking to collaborate on software development with leading companies e.g Google 
+- 💞️ I’m looking to collaborate on coding projects to enable me advance im my coding skills.
 - 📫 How to reach me,you can reach me through my email barbrahnelima2004@gmail.com or find me on my social media platforms @ Barbie Nellymer 
 - 😄 Pronouns:Hi!my name is Barbrah and i go by the pronoun she.
 - ⚡ Fun fact: engagement in software and tools 
