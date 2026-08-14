@@ -21,7 +21,6 @@ I'm currently working on web projects, expanding my software development skills,
 - 📊 Data Science Projects
 
 ### 🎯 Currently Learning
-- JavaScript
 - Python
 - Data Science
 - Software Development
