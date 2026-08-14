@@ -1,12 +1,32 @@
-- 👋 Hi, I’m @Nelima-python
-- 👀 I’m interested in writing HTML code 
-- 🌱 I’m currently learning coding at Partners for Girls Africa Foundation.
-- 💞️ I’m looking to collaborate on coding projects to enable me advance im my coding skills.
-- 📫 How to reach me,you can reach me through my email barbrahnelima2004@gmail.com or find me on my social media platforms @ Barbie Nellymer 
-- 😄 Pronouns:Hi!my name is Barbrah and i go by the pronoun she.
-- ⚡ Fun fact: engagement in software and tools 
+# 👋 Hi, I'm Dev Barbrah
 
-<!---
-Nelima-python/Nelima-python is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Web Developer | Software Developer | Data Science Enthusiast**
+
+I build responsive, user-focused web experiences and enjoy turning ideas into functional digital solutions.
+
+### 🛠️ What I Work With
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+
+### 🚀 What I'm Building
+I'm currently working on web projects, expanding my software development skills, and building projects that solve real-world problems.
+
+### 📌 Featured Projects
+- 🌐 Business & E-commerce Websites
+- 🛍️ Fashion Store Website
+- 🐍 Python Projects
+- 📊 Data Science Projects
+
+### 🎯 Currently Learning
+- JavaScript
+- Python
+- Data Science
+- Software Development
+
+### 🤝 Let's Connect
+I'm open to collaborating on interesting projects and building useful things with code.
+
+**Code. Create. Solve. Repeat. 💻**
